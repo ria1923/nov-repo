@@ -13,3 +13,4 @@ class FizzBuzz():
             else:
                 print(num)
 fizzbuzz_game = FizzBuzz(1,101)
+welcome
